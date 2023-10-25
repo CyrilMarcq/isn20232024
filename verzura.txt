@@ -3,3 +3,6 @@ Verzura Alexandre, étudiant en M2 ISN.
 Ce fichier est un fichier test. Il sert à un première introductionà Git dans le cadre d'un exercice.
 je rajooute une ligne pour faire la fin de la partie 2. Mais on est en plein cours de séries temp donc probabalement pas de conflit.
 Cette ligne correspond à la branche "main".
+cette ligne correspond a la branche "refactor_verzura".
+Les deux lignes ont était sauvegardé dans la branche main.
+
