@@ -1,0 +1,3 @@
+@autor :  Verzura
+Verzura Alexandre, étudiant en M2 ISN. 
+Ce fichier est un fichier test. Il sert à un première introductionà Git dans le cadre d'un exercice.
